@@ -1,8 +1,8 @@
-## Olá, sou o Cleber Fidelles 👋
+## Olá, sou o Eduardo Avila👋
 
 
 
-- 🔭 Professor de tecnologia...
+- 🔭 Programador e desenvolvidor de conteudo...
 - 🌱 Aprendendo GitHub ...
 
 ##### Hard Skills
