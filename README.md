@@ -1,5 +1,5 @@
 ## Olá, sou o Eduardo Avila👋
-
+estou entrando  na area de programação, estou sempre aberto para abrender coisas novas e trabalhar em equipe e sempre a procura de um projeto novo.
 
 
 - 🔭 Programador e desenvolvidor de conteudo...
